@@ -1,1 +1,1 @@
-# solutions
+# Решение задач с leetcode 
